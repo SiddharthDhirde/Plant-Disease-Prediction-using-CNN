@@ -1,0 +1,1 @@
+Trained plant disease prediction model need to be paste in this directory. Since size of Model is very Large I haven't included it on GitHub.
